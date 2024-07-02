@@ -1,0 +1,24 @@
+ 
+   
+
+.gallery {
+    padding: 50px;
+    display: flex;
+  }
+  
+  .galleryItem {
+    display: flex;
+    flex-flow: column wrap;
+    padding: 50px;
+    color: black;
+  }
+  
+  .galleryImg {
+    width: 100%;
+}
+  .galleryTitle{
+    color: black;
+    font-size: 2.25rem;
+  }
+
+  
